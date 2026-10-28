@@ -1,0 +1,10 @@
+#.gitignore
+.venv/
+.idea/
+
+# how to push to github
+# git init
+# git add .
+# git commit -m "python basics"
+# git remote add origin https://github.com/janeroseweb/python basics.git
+#git push -u origin master
